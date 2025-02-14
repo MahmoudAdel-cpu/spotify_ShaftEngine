@@ -1,10 +1,11 @@
 # Spotify Account Signup and Playlist Automation
 
-This project automates the process of signing up for a new Spotify account, creating a playlist, adding songs to it, and playing the playlist using **Shaft_Engine** and **Selenium** in Java.
+This project automates the process of signing up for a new Spotify account, creating a playlist, adding songs to it, and playing the playlist using **Shaft_Engine** and **Selenium** in Java. The project is built using the **Page Object Model (POM)** design pattern and **Fluent Design** principles for maintainability and readability.
 
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
+- [Demo Video](#demo-video)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 
@@ -30,6 +31,12 @@ The project is built using **Shaft_Engine**, a powerful test automation framewor
 - **Logging**: Uses Shaft_Engine integrated with `Allure Report` for detailed logging and reporting.
 
 ---
+
+## Demo Video
+
+Watch the automation script in action:
+
+[![Watch Video](https://img.shields.io/badge/Watch%20Video-Click%20Here-blue)](https://drive.google.com/file/d/1tTiqh2ZMBSekHmFkrIp5t7QQAW8PuXyg/view?usp=sharing)
 
 ## Prerequisites
 
